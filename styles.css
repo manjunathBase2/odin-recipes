@@ -1,0 +1,31 @@
+* {
+    font-family: Helvetica,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    color: grey;
+}
+
+html{
+    background-color: indigo;
+}
+
+.header {
+    text-align: center;
+    font-size: 80px;
+    color: goldenrod;
+    font-weight: bold;
+}
+
+.container{
+    justify-content: center;
+    color: grey;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+    margin: 10px;
+}
